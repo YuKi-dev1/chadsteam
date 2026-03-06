@@ -1,0 +1,44 @@
+{
+  "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "date": "2026-03-06",
+      "tag": "latest",
+      "title": "Thumbs & Tradução",
+      "changes": [
+        { "type": "new",  "text": "Sistema de thumbs inteligente com fallback via Steam API" },
+        { "type": "new",  "text": "Sistema de actualizações automáticas com notificação ao arranque" },
+        { "type": "new",  "text": "Histórico de versões nas definições" },
+        { "type": "fix",  "text": "Tradução incompleta em múltiplas secções da app" },
+        { "type": "fix",  "text": "Botão 'Jogar' removido da biblioteca" },
+        { "type": "fix",  "text": "Ícone da barra de tarefas actualizado" }
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2026-03-05",
+      "tag": "stable",
+      "title": "ChadSteam Rebranding",
+      "changes": [
+        { "type": "new",  "text": "Novo nome e identidade visual: ChadSteam" },
+        { "type": "new",  "text": "Suporte a múltiplos idiomas (PT, EN, ES)" },
+        { "type": "new",  "text": "config.json para configurações de developer" },
+        { "type": "new",  "text": "Página de Requests com preview de jogos" },
+        { "type": "new",  "text": "Logo personalizado na titlebar" }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2026-02-01",
+      "tag": "legacy",
+      "title": "Lançamento Inicial (RyuuPlay)",
+      "changes": [
+        { "type": "new",  "text": "Primeira versão pública como RyuuPlay" },
+        { "type": "new",  "text": "Instalação de jogos via gerador Ryuu" },
+        { "type": "new",  "text": "Biblioteca com scan automático de ficheiros .lua" },
+        { "type": "new",  "text": "Suporte a temas dark/light" }
+      ]
+    }
+  ]
+}
