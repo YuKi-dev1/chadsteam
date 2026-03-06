@@ -2,9 +2,20 @@
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
     {
+  "version": "2.2.0",        
+  "date": "2026-03-06",      
+  "tag": "beta",           
+  "title": "Reportar bugs e Feedback", 
+  "changes": [
+    { "type": "new",     "text": "Nova funcionalidades de reportar BUG e FEEDBACK nas configurações" },
+    { "type": "fix",     "text": "Tradução corrigida" },
+    { "type": "improve", "text": "Melhoria na tradução" }
+  ]
+},
+    {
       "version": "2.1.0",
       "date": "2026-03-06",
-      "tag": "latest",
+      "tag": "stable",
       "title": "Thumbs & Tradução",
       "changes": [
         { "type": "new",  "text": "Sistema de thumbs inteligente com fallback via Steam API" },
