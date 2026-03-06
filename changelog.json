@@ -21,7 +21,7 @@
       "tag": "stable",
       "title": "ChadSteam Rebranding",
       "changes": [
-        { "type": "new",  "text": "Novo nome e identidade visual: ChadSteam" },
+        { "type": "new",  "text": "Novo nome e identidade visual" },
         { "type": "new",  "text": "Suporte a múltiplos idiomas (PT, EN, ES)" },
         { "type": "new",  "text": "config.json para configurações de developer" },
         { "type": "new",  "text": "Página de Requests com preview de jogos" },
@@ -32,10 +32,10 @@
       "version": "1.0.0",
       "date": "2026-02-01",
       "tag": "legacy",
-      "title": "Lançamento Inicial (RyuuPlay)",
+      "title": "Lançamento Inicial",
       "changes": [
-        { "type": "new",  "text": "Primeira versão pública como RyuuPlay" },
-        { "type": "new",  "text": "Instalação de jogos via gerador Ryuu" },
+        { "type": "new",  "text": "Primeira versão pública" },
+        { "type": "new",  "text": "Instalação de jogos via gerador" },
         { "type": "new",  "text": "Biblioteca com scan automático de ficheiros .lua" },
         { "type": "new",  "text": "Suporte a temas dark/light" }
       ]
