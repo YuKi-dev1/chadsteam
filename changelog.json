@@ -1,10 +1,19 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                    {
+  "version": "2.5.6",        
+  "date": "2026-03-07",      
+  "tag": "beta",           
+  "title": "STEAMTOOLS INSTALLER FIX", 
+  "changes": [
+    { "type": "fix", "text": "Instalação do SteamTools corrigida MAIS UMA VEZ!" }
+  ]
+},
                                 {
   "version": "2.5.5",        
   "date": "2026-03-07",      
-  "tag": "beta",           
+  "tag": "legacy",           
   "title": "STEAMTOOLS INSTALLER FIX", 
   "changes": [
     { "type": "fix", "text": "Instalação do SteamTools corrigida!" }
