@@ -1,6 +1,16 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                            {
+  "version": "2.6",        
+  "date": "2026-03-07",      
+  "tag": "latest",           
+  "title": "Animações e Desisntalação", 
+  "changes": [
+    { "type": "new", "text": "Nova opção de desinstalar o ChadSteam" },
+    { "type": "improve", "text": "Melhoração nas animações da Interface gráfica" }
+  ]
+},
                                     {
   "version": "2.5.6",        
   "date": "2026-03-07",      
