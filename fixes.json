@@ -1,0 +1,16 @@
+{
+  "fixes": [
+    {
+      "game": "Example Game",
+      "type": "ONLINE-FIX",
+      "description": "Enables online multiplayer without Steam",
+      "downloadUrl": "https://pixeldrain.com/api/file/tBsWaiUS?download"
+    },
+    {
+      "game": "Another Game",
+      "type": "GAME BYPASS",
+      "description": "Bypasses DRM check on launch",
+      "downloadUrl": ""
+    }
+  ]
+}
