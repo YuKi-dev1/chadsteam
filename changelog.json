@@ -2,7 +2,7 @@
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
                                                 {
-  "version": "2.7",        
+  "version": "2.7.0",        
   "date": "2026-03-07",      
   "tag": "latest",           
   "title": "Atualizar jogo!", 
@@ -11,7 +11,7 @@
   ]
 },
                                             {
-  "version": "2.6",        
+  "version": "2.6.0",        
   "date": "2026-03-07",      
   "tag": "stable",           
   "title": "Animações e Desisntalação", 
