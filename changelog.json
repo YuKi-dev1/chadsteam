@@ -7,7 +7,7 @@
   "tag": "latest",           
   "title": "Animações e Desisntalação", 
   "changes": [
-    { "type": "new", "text": "Nova opção de desinstalar o ChadSteam" }
+    { "type": "new", "text": "Nova opção de desinstalar o ChadSteam" },
     { "type": "improvise", "text": "Melhoração nas animações da Interface gráfica" }
   ]
 },
