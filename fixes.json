@@ -1,18 +1,5 @@
 {
   "fixes": [
-    {
-      "game": "Counter-Strike 2",
-      "appid": 730,
-      "type": "ONLINE-FIX",
-      "description": "Enables online multiplayer without Steam",
-      "downloadUrl": "https://pixeldrain.com/api/file/tBsWaiUS?download"
-    },
-    {
-      "game": "Example Game",
-      "appid": 1091500,
-      "type": "GAME BYPASS",
-      "description": "Bypasses DRM check on launch",
-      "downloadUrl": ""
-    }
+    { "game": "Nome", "appid": 730, "type": "ONLINE-FIX", "description": "...", "downloadUrl": "..." }
   ]
 }
