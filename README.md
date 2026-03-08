@@ -1,2 +1,1 @@
-# chadsteam
-tool manifest
+# chadsteam 🏴‍☠️
