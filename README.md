@@ -1,4 +1,4 @@
-# chadsteam 🏴‍☠️
+# Chadsteam 🏴‍☠️
 **O ChadSteam é uma ferramenta feita para instalar facilmente manifests junto com o SteamTools.**
 
 Esta ferramenta foi criada com o íntuito pra ajudar as pessoas que têm dificuldades de instalar ou encontrar boas fontes.
