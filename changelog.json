@@ -1,10 +1,19 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                {
+  "version": "3.6.0",        
+  "date": "2026-03-08",      
+  "tag": "latest",           
+  "title": "Video Guide", 
+  "changes": [
+    { "type": "fix", "text": "Video do Guide foi corrigido!" }
+  ]
+},
                                                             {
   "version": "3.5.0",        
   "date": "2026-03-08",      
-  "tag": "latest",           
+  "tag": "stable",           
   "title": "Mudança na Interface e Biblioteca", 
   "changes": [
     { "type": "improve", "text": "Novo loading menu" },
