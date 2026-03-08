@@ -9,6 +9,7 @@
   "changes": [
     { "type": "new", "text": "Nova forma de partuilhar as configurações" },
     { "type": "improve", "text": "Melhoração nos botões da Interface" },
+    { "type": "improve", "text": "Melhoração na parte de download" },
     { "type": "new", "text": "Registro de atividade LOCAL" },
     { "type": "new", "text": "Agora tem um tutorial com vídeo/texto onde diz como usar a aplicação" },
     { "type": "fix", "text": "Icon da aplicação" }
