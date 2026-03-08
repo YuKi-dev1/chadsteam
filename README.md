@@ -15,6 +15,6 @@ https://www.youtube.com/watch?v=yvjM58syEU8
 
 ## Screenshots
 
-![Preview]()
+![Preview](https://github.com/YuKi-dev1/chadsteam/blob/main/1picture.png)
 
 ![Preview]()
