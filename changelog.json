@@ -36,7 +36,7 @@
   "tag": "stable",           
   "title": "O Update 3.0!", 
   "changes": [
-    { "type": "new", "text": "Nova forma de partuilhar as configurações" },
+    { "type": "new", "text": "Nova forma de partilhar as configurações" },
     { "type": "improve", "text": "Melhoração nos botões da Interface" },
     { "type": "improve", "text": "Melhoração na parte de download" },
     { "type": "new", "text": "Registro de atividade LOCAL" },
