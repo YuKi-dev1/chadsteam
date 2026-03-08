@@ -1,10 +1,23 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                    {
+  "version": "3.0.0",        
+  "date": "2026-03-08",      
+  "tag": "latest",           
+  "title": "O Update 3.0!", 
+  "changes": [
+    { "type": "new", "text": "Nova forma de partuilhar as configurações" },
+    { "type": "improve", "text": "Melhoração nos botões da Interface" },
+    { "type": "new", "text": "Registro de atividade LOCAL" },
+    { "type": "new", "text": "Agora tem um tutorial com vídeo/texto onde diz como usar a aplicação" },
+    { "type": "fix", "text": "Icon da aplicação" }
+  ]
+},
                                                 {
   "version": "2.7.0",        
   "date": "2026-03-07",      
-  "tag": "latest",           
+  "tag": "stable",           
   "title": "Atualizar jogo!", 
   "changes": [
     { "type": "new", "text": "Novo botão de atualizar o jogo completamente, reinstalando os arquivos mais recentes!" }
