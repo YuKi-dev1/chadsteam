@@ -1,5 +1,13 @@
 [
   {
+    "id": 4,
+    "type": "maintenance",
+    "title": "Random Game",
+    "message": "Sistema de RandomGames em manutenção por bugs",
+    "date": "2026-03-09",
+    "pinned": false
+  },
+  {
     "id": 3,
     "type": "warning",
     "title": "Novo Discord",
