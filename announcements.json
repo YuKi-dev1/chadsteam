@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": 3,
+    "type": "warning",
+    "title": "Novo Discord",
+    "message": "Entrem no novo Discord",
+    "date": "2026-03-09",
+    "pinned": true
+  },
+  {
+    "id": 2,
+    "type": "info", 
+    "title": "Nova versão disponível!",
+    "message": "A v4.0 já está disponível!",
+    "date": "2026-03-09",
+    "pinned": false
+  }
+]
