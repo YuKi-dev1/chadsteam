@@ -1,10 +1,20 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                            {
+  "version": "4.5.0",        
+  "date": "2026-03-11",      
+  "tag": "latest",           
+  "title": "A versão 4.5", 
+  "changes": [
+    { "type": "new", "text": "Novo sistema de verificação" },
+    { "type": "fix", "text": "Correções no STools" }
+  ]
+},
                                                                         {
   "version": "4.1.0",        
   "date": "2026-03-09",      
-  "tag": "latest",           
+  "tag": "stable",           
   "title": "A versão 4.0", 
   "changes": [
     { "type": "fix", "text": "Remoção do random button" }
