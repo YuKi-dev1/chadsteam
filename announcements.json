@@ -1,4 +1,12 @@
-[
+[  
+  {
+    "id": 5,
+    "type": "warning",
+    "title": "Discord Auth",
+    "message": "Agora é obrigatório estar no servidor do discord :)",
+    "date": "2026-03-11",
+    "pinned": true
+  },
   {
     "id": 4,
     "type": "sucess",
