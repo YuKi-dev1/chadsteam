@@ -13,7 +13,7 @@
                                                                                 {
   "version": "5.0.0",        
   "date": "2026-03-17",      
-  "tag": "latest",           
+  "tag": "stable",           
   "title": "O novo site", 
   "changes": [
     { "type": "new", "text": "Novo WebSite" },
