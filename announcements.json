@@ -1,4 +1,12 @@
-[    
+[  
+    {
+    "id": 7,
+    "type": "error",
+    "title": "Problema na Loja",
+    "message": "Se a vossa loja por exemplo só aparecer 22 jogos, apenas pressionem ctrl+r e vai aparecer todos os jogos da loja",
+    "date": "2026-03-17",
+    "pinned": true
+  },
   {
     "id": 6,
     "type": "info",
