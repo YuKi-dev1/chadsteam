@@ -1,10 +1,23 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                                {
+  "version": "5.0.0",        
+  "date": "2026-03-17",      
+  "tag": "latest",           
+  "title": "O novo site", 
+  "changes": [
+    { "type": "new", "text": "Novo WebSite" },
+    { "type": "new", "text": "Novas coisas na biblioteca" },
+    { "type": "fix", "text": "Correção no Auth do Discord" },
+    { "type": "fix", "text": "Correções no Back-end do biblioteca" },
+    { "type": "improve", "text": "Na interface do Painel" }
+  ]
+},
                                                                             {
   "version": "4.5.0",        
   "date": "2026-03-11",      
-  "tag": "latest",           
+  "tag": "legacy",           
   "title": "A versão 4.5", 
   "changes": [
     { "type": "new", "text": "Novo sistema de verificação" },
