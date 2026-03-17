@@ -1,15 +1,6 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
-                                                                                        {
-  "version": "5.2.0",        
-  "date": "2026-03-17",      
-  "tag": "latest",           
-  "title": "Internet Fix", 
-  "changes": [
-    { "type": "fix", "text": "Fix no loading dos blocos da loja" }
-  ]
-},
                                                                                     {
   "version": "5.1.0",        
   "date": "2026-03-17",      
