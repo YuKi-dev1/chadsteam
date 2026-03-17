@@ -1,6 +1,15 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                                    {
+  "version": "5.1.0",        
+  "date": "2026-03-17",      
+  "tag": "latest",           
+  "title": "O novo site", 
+  "changes": [
+    { "type": "fix", "text": "Tutorial video fix" }
+  ]
+},
                                                                                 {
   "version": "5.0.0",        
   "date": "2026-03-17",      
