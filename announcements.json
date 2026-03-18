@@ -1,11 +1,19 @@
-[  
+[  Fix de tudo para arranjar a coisa da internet, se nao resolveu nao sei
+    {
+    "id": 7,
+    "type": "maintenance",
+    "title": "Wifi Connection Fix",
+    "message": "Fiz de tudo para arranjar a coisa da internet, se nao resolveu nao sei",
+    "date": "2026-03-18",
+    "pinned": true
+  },
     {
     "id": 7,
     "type": "error",
     "title": "Problema na Loja",
     "message": "Se a vossa loja por exemplo só aparecer 22 jogos, apenas pressionem ctrl+r e vai aparecer todos os jogos da loja",
     "date": "2026-03-17",
-    "pinned": true
+    "pinned": false
   },
   {
     "id": 6,
@@ -45,7 +53,7 @@
     "title": "Novo Discord",
     "message": "Entrem no novo Discord",
     "date": "2026-03-09",
-    "pinned": true
+    "pinned": false
   },
   {
     "id": 1,
