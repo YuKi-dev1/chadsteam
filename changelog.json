@@ -2,6 +2,16 @@
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
                                                                                     {
+  "version": "5.5.0",        
+  "date": "2026-03-18",      
+  "tag": "latest",           
+  "title": "Back-End Fix", 
+  "changes": [
+    { "type": "improve", "text": "Improvisação na Administração e Logs" },
+    { "type": "fix", "text": "Fix dos jogos não carregarem" }
+  ]
+},
+                                                                                    {
   "version": "5.1.0",        
   "date": "2026-03-17",      
   "tag": "stable",           
