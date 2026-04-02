@@ -1,5 +1,13 @@
 [ 
     {
+    "id": 9,
+    "type": "info",
+    "title": "Um novo começo.",
+    "message": "ChadSteam ficou em baixo por 1 mês divido a problemas pessoas do dono, o dono decidiu abandonar o projeto e ofereceu a mim para continuar o projeto, peço a todos para convidar pessoas interesadas.",
+    "date": "2026-04-02",
+    "pinned": true
+  },
+    {
     "id": 8,
     "type": "maintenance",
     "title": "Wifi Connection Fix",
