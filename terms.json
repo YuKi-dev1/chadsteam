@@ -4,7 +4,7 @@
   "blocks": [
     {
       "type": "title",
-      "text": "Termos de Uso",
+      "text": "Terms of Use",
       "color": "#00c8ff",
       "size": "xl"
     },
@@ -19,7 +19,7 @@
     },
     {
       "type": "text",
-      "text": "Ao acessar e utilizar o ChadSteam, o usuário concorda com os seguintes termos:",
+      "text": "By accessing and using ChadSteam, the user agrees to the following terms:",
       "color": "#e2e8f0",
       "size": "normal"
     },
@@ -28,23 +28,23 @@
     },
     {
       "type": "bullet",
-      "text": "Durante o uso da plataforma, poderão ser coletadas informações básicas de localização, incluindo cidade e país, com a finalidade de segurança, análise de uso e melhoria do serviço.",
+      "text": "During the use of the platform, basic location information, including city and country, may be collected for security purposes, usage analysis, and service improvement.",
       "color": "#cbd5e1",
-      "bold": ["cidade e país"],
+      "bold": ["including city and country"],
       "size": "normal"
     },
     {
       "type": "bullet",
-      "text": "Essas informações não permitem a identificação pessoal direta do usuário e não incluem dados sensíveis, como endereço exato, IP (nas logs aparece o IP mas não exato) completo ou informações pessoais privadas.",
+      "text": "This information does not allow for the direct personal identification of the user and does not include sensitive data such as exact address, full IP address (the IP appears in the logs but not the exact one), or private personal information.",
       "color": "#cbd5e1",
-      "bold": ["não permitem a identificação pessoal direta do usuário", "não incluem dados sensíveis"],
+      "bold": ["does not allow for the direct personal identification of the user", "does not include sensitive data"],
       "size": "normal"
     },
     {
       "type": "bullet",
-      "text": "O responsável pelo ChadSteam compromete-se a não compartilhar, vender ou divulgar essas informações a terceiros, exceto quando exigido por lei.",
+      "text": "The person responsible for ChadSteam agrees not to share, sell, or disclose this information to third parties, except when required by law.",
       "color": "#cbd5e1",
-      "bold": ["não compartilhar"],
+      "bold": ["ChadSteam agrees not to share"],
       "size": "normal"
     },
     {
@@ -58,7 +58,7 @@
     },
     {
       "type": "text",
-      "text": "Ao continuar utilizando o ChadSteam, o usuário declara estar ciente e de acordo com estes termos.",
+      "text": "By continuing to use ChadSteam, the user declares that they are aware of and agree to these terms.",
       "color": "#e2e8f0",
       "size": "normal"
     },
@@ -67,7 +67,7 @@
     },
     {
       "type": "highlight",
-      "text": "Para receber o acesso ao canal de instalação do ChadSteam é obrigatório aceitar os termos de uso.",
+      "text": "To receive access to the ChadSteam installation channel, you must accept the terms of use.",
       "color": "#ffffff",
       "bg": "rgba(0,200,255,0.08)",
       "border": "rgba(0,200,255,0.25)",
@@ -78,7 +78,7 @@
     },
     {
       "type": "footer",
-      "text": "Última modificação: 07/03/2026",
+      "text": "Last modified: 03/07/2026",
       "color": "#4a5568",
       "size": "small"
     }
