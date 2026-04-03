@@ -1,11 +1,23 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                                                {
+  "version": "6.0.0",        
+  "date": "2026-04-03",                                                                                           
+  "tag": "latest",           
+  "title": "Update de Segurança", 
+  "changes": [
+    { "type": "new", "text": "Novo sistema de cargos" },
+    { "type": "new", "text": "Novo sitema de segurança do menu" },
+    { "type": "fix", "text": "Agora Atualiza sempre o PFP (antes não atualizava)" },
+    { "type": "fix", "text": "Fix na parte da tradução das línguas (ainda pode ter umas partes que estão bugadas mas isso vai ser resolvido no futuro)" },
+    { "type": "fix", "text": "Fix do video do guide" }
+  ]
+},
                                                                                             {
   "version": "5.7.0",        
-  "date": "2026-04-02",
-  "mandatory": false,                                                                                            
-  "tag": "latest",           
+  "date": "2026-04-02",                                                                                         
+  "tag": "legacy",           
   "title": "Acerto de contas", 
   "changes": [
     { "type": "new", "text": "Novo Discord" },
