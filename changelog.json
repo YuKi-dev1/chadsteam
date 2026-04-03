@@ -3,7 +3,8 @@
   "versions": [
                                                                                             {
   "version": "5.7.0",        
-  "date": "2026-04-02",      
+  "date": "2026-04-02",
+  "mandatory": true,                                                                                            
   "tag": "latest",           
   "title": "Acerto de contas", 
   "changes": [
