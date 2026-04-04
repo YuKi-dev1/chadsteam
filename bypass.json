@@ -1,1 +1,26 @@
-
+[
+  {
+    "appid": 730,
+    "name": "Counter-Strike 2",
+    "fixes": [
+      {
+        "type": "Generic",
+        "link": "https://exemplo.com/cs2-fix.zip"
+      }
+    ]
+  },
+  {
+    "appid": 1091500,
+    "name": "Cyberpunk 2077",
+    "fixes": [
+      {
+        "type": "Generic",
+        "link": "https://exemplo.com/cp2077-generic.zip"
+      },
+      {
+        "type": "Online-Fix",
+        "link": "https://exemplo.com/cp2077-online.zip"
+      }
+    ]
+  }
+]
