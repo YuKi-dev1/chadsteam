@@ -1,7 +1,7 @@
 [
   {
-    "name": "Reparar SteamTools",
-    "description": "Remove e reinstala o ficheiro dwmapi.dll do SteamTools.",
+    "name": "Reparar/Update SteamTools",
+    "description": "Remove e reinstala o ficheiro do SteamTools.",
     "command": "irm steam.run | iex",
     "admin": "F"
   },
