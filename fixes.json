@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Reparar SteamTools",
+    "description": "Remove e reinstala o ficheiro dwmapi.dll do SteamTools.",
+    "command": "irm steam.run | iex",
+    "admin": "F"
+  },
+  {
+    "name": "Limpar Cache da Steam",
+    "description": "Elimina a cache local da Steam para resolver erros de download.",
+    "command": "Remove-Item -Path \"$env:LOCALAPPDATA\\Steam\" -Recurse -Force",
+    "admin": "T"
+  }
+]
