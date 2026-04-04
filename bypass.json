@@ -1,25 +1,21 @@
 [
   {
-    "appid": 730,
-    "name": "Counter-Strike 2",
+    "appid": 3643170,
+    "name": "Roadside Research",
     "fixes": [
       {
-        "type": "Generic",
-        "link": "https://exemplo.com/cs2-fix.zip"
+        "type": "Online-Fix",
+        "link": "https://files.catbox.moe/mj8rgx.zip"
       }
     ]
   },
   {
-    "appid": 1091500,
-    "name": "Cyberpunk 2077",
+    "appid": 2141730,
+    "name": "Backrooms: Escape Together",
     "fixes": [
       {
-        "type": "Generic",
-        "link": "https://exemplo.com/cp2077-generic.zip"
-      },
-      {
         "type": "Online-Fix",
-        "link": "https://exemplo.com/cp2077-online.zip"
+        "link": "hhttps://files.catbox.moe/2wute5.zip"
       }
     ]
   }
