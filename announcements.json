@@ -1,5 +1,13 @@
 [ 
     {
+    "id": 10,
+    "type": "warning",
+    "title": "📢 Anúncio sobre os Termos de Uso (TOS)",
+    "message": "Nos últimos dias surgiram dúvidas sobre o uso de um endpoint associado ao IPFY no BACKEND do ChadSteam. De forma clara, a API do ChadSteam regista automaticamente o endereço IP dos utilizadores durante a sua utilização — um comportamento padrão na maioria dos serviços online. O endpoint do IPFY foi integrado com o objetivo de centralizar os registos (logs), evitando a dispersão das informações em diferentes locais. O endereço IP permite apenas identificar dados gerais, como país e cidade. Não fornece a localização exata nem qualquer informação pessoal sensível do utilizador. Estas práticas estão em conformidade com os nossos Termos de Uso, garantindo transparência sobre os dados processados.",
+    "date": "2026-04-09",
+    "pinned": false
+  },
+    {
     "id": 9,
     "type": "info",
     "title": "Um novo começo.",
