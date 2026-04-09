@@ -1,10 +1,26 @@
 {
   "_comment": "Histórico de versões do ChadSteam. Adiciona novas versões NO TOPO do array 'versions'.",
   "versions": [
+                                                                                                    {
+  "version": "6.5.0",        
+  "date": "2026-04-09",                                                                                           
+  "tag": "latest",           
+  "title": "Bypass Update", 
+  "changes": [
+    { "type": "new", "text": "Novo sistema de Bypass de jogos (Online-Fix e Genérico)" },
+    { "type": "new", "text": "Novas coisas nas definições (Fix)" },
+    { "type": "new", "text": "Nova opção de pedir Bypass de jogos" },
+    { "type": "new", "text": "Novo Loading Menu" },
+    { "type": "new", "text": "Nova secção chamada HOME" },
+    { "type": "fix", "text": "Fix no botão LATER na parte de atualizar o ChadSteam" },
+    { "type": "fix", "text": "Fix no vídeo do guide (de novo)" },
+    { "type": "improve", "text": "Pequenas melhorias na tradução do Menu" }
+  ]
+},
                                                                                                 {
   "version": "6.0.0",        
   "date": "2026-04-03",                                                                                           
-  "tag": "latest",           
+  "tag": "legacy",           
   "title": "Update de Segurança", 
   "changes": [
     { "type": "new", "text": "Novo sistema de cargos" },
