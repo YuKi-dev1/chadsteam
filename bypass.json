@@ -28,5 +28,15 @@
         "link": "https://files.catbox.moe/h22rlm.zip"
       }
     ]
+  },
+  {
+    "appid": 3949040,
+    "name": "RV There Yet?",
+    "fixes": [
+      {
+        "type": "Online-Fix",
+        "link": "https://files.catbox.moe/tg8qoi.zip"
+      }
+    ]
   }
 ]
