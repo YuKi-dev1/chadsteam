@@ -16,7 +16,17 @@
       {
         "type": "Online-Fix",
         "link": "https://files.catbox.moe/2wute5.zip"
+      },
+  {
+    "appid": 1715280,
+    "name": "AirportSim",
+    "fixes": [
+      {
+        "type": "Online-Fix",
+        "link": "https://files.catbox.moe/h22rlm.zip"
       }
+    ]
+  },
     ]
   }
 ]
