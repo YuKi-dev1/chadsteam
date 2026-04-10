@@ -38,5 +38,15 @@
         "link": "https://files.catbox.moe/tg8qoi.zip"
       }
     ]
+  },
+  {
+    "appid": 2129530,
+    "name": "REANIMAL",
+    "fixes": [
+      {
+        "type": "Online-Fix",
+        "link": "https://files.catbox.moe/28kc0c.zip"
+      }
+    ]
   }
 ]
