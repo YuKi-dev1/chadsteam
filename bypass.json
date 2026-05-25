@@ -64,7 +64,7 @@
     "name": "PRAGMATA",
     "fixes": [
       {
-        "type": "Online-Fix",
+        "type": "Generic",
         "link": "https://files.catbox.moe/q9utkb.zip"
       }
     ]
