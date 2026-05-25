@@ -58,5 +58,15 @@
         "link": "https://files.catbox.moe/jzk3ty.zip"
       }
     ]
+  },
+  {
+    "appid": 3357650,
+    "name": "PRAGMATA",
+    "fixes": [
+      {
+        "type": "Generic",
+        "link": "https://files.catbox.moe/q9utkb.zip"
+      }
+    ]
   }
 ]
