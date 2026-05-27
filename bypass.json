@@ -68,5 +68,15 @@
         "link": "https://files.catbox.moe/q9utkb.zip"
       }
     ]
+  },
+  {
+    "appid": 2215200,
+    "name": "LEGO® Batman™: Legacy of the Dark Knight",
+    "fixes": [
+      {
+        "type": "Generic",
+        "link": "https://pixeldrain.com/api/file/SJznfVGM?download"
+      }
+    ]
   }
 ]
