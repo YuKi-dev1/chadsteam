@@ -88,5 +88,15 @@
         "link": "https://files.catbox.moe/wve5ac.zip"
       }
     ]
+  },
+  {
+    "appid": 3768760,
+    "name": "007 First Light",
+    "fixes": [
+      {
+        "type": "Generic",
+        "link": "https://pixeldrain.com/api/file/aTcuvqSm?download"
+      }
+    ]
   }
 ]
