@@ -50,16 +50,6 @@
     ]
   },
   {
-    "appid": 1623730,
-    "name": "Palworld",
-    "fixes": [
-      {
-        "type": "Online-Fix",
-        "link": "https://files.catbox.moe/jzk3ty.zip"
-      }
-    ]
-  },
-  {
     "appid": 3357650,
     "name": "PRAGMATA",
     "fixes": [
