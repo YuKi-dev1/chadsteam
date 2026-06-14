@@ -98,5 +98,15 @@
         "link": "https://pixeldrain.com/api/file/aTcuvqSm?download"
       }
     ]
+  },
+  {
+    "appid": 1943950,
+    "name": "Escape the Backrooms",
+    "fixes": [
+      {
+        "type": "Onliine-Fix",
+        "link": "https://files.catbox.moe/ln10dl.zip"
+      }
+    ]
   }
 ]
